@@ -31,7 +31,7 @@ let gui //= new dat.GUI()
 
 const palettes = {
 	green: {
-		groundColor: 0x56f854,
+		groundColor: 0x525252,
 		fogColor: 0x39c09f,
 		rockColor: 0xebebeb, //0x7a95ff,
 		treeColor: 0x639541, //0x1d5846,
