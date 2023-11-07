@@ -36,7 +36,7 @@ const palettes = {
 		rockColor: 0xebebeb, //0x7a95ff,
 		treeColor: 0x639541, //0x1d5846,
 		candyColor: 0x1d5846, //0x614bdd,
-		snakeColor: 0x750d16, //0xff470a,
+		snakeColor: 0x4f151a, //0xff470a,
 		mouthColor: 0x39c09f,
 	},
 	orange: {
